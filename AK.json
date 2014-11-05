@@ -1,0 +1,5695 @@
+{
+    "timestamp": "Wed, 05 Nov 2014 17:59:09 GMT",
+    "results": [
+        [
+            {
+                "county_name": "10",
+                "precinct_name": "005 Kings Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 126,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 258,
+                "Write-in": 4
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "010 Church",
+                "status": "COMPLETE",
+                "Mark Begich": 147,
+                "Mark Fish": 41,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 487,
+                "Write-in": 1
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "015 Tanaina",
+                "status": "COMPLETE",
+                "Mark Begich": 212,
+                "Mark Fish": 44,
+                "Ted Gianoutsos": 26,
+                "Dan Sullivan": 539,
+                "Write-in": 3
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "020 Houston",
+                "status": "COMPLETE",
+                "Mark Begich": 137,
+                "Mark Fish": 39,
+                "Ted Gianoutsos": 26,
+                "Dan Sullivan": 328,
+                "Write-in": 2
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "025 Meadow Lakes No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 82,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 275,
+                "Write-in": 1
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "030 Susitna",
+                "status": "COMPLETE",
+                "Mark Begich": 122,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 224,
+                "Write-in": 2
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "035 Talkeetna",
+                "status": "COMPLETE",
+                "Mark Begich": 199,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 120,
+                "Write-in": 2
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "040 Trapper Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 35,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 91,
+                "Write-in": 1
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "045 Willow",
+                "status": "COMPLETE",
+                "Mark Begich": 242,
+                "Mark Fish": 46,
+                "Ted Gianoutsos": 24,
+                "Dan Sullivan": 436,
+                "Write-in": 5
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "050 Meadow Lakes No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 42,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 126,
+                "Write-in": 0
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "055 Lakes No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 85,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 275,
+                "Write-in": 0
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 174,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 289,
+                "Write-in": 0
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "10",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 224,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 462,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "11",
+                "precinct_name": "055 Walby",
+                "status": "COMPLETE",
+                "Mark Begich": 190,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 17,
+                "Dan Sullivan": 586,
+                "Write-in": 6
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "060 Greater Palmer",
+                "status": "COMPLETE",
+                "Mark Begich": 223,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 491,
+                "Write-in": 4
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "065 Mat",
+                "status": "COMPLETE",
+                "Mark Begich": 122,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 283,
+                "Write-in": 4
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "070 Palmer City No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 305,
+                "Mark Fish": 43,
+                "Ted Gianoutsos": 30,
+                "Dan Sullivan": 445,
+                "Write-in": 2
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "075 Palmer City No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 202,
+                "Mark Fish": 39,
+                "Ted Gianoutsos": 18,
+                "Dan Sullivan": 422,
+                "Write-in": 3
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "085 Trunk",
+                "status": "COMPLETE",
+                "Mark Begich": 161,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 393,
+                "Write-in": 3
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "090 Seward Meridian",
+                "status": "COMPLETE",
+                "Mark Begich": 84,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 302,
+                "Write-in": 6
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "095 Springer Loop",
+                "status": "COMPLETE",
+                "Mark Begich": 176,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 462,
+                "Write-in": 2
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "099 Lazy Mountain",
+                "status": "COMPLETE",
+                "Mark Begich": 185,
+                "Mark Fish": 28,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 293,
+                "Write-in": 8
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 103,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 209,
+                "Write-in": 2
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "11",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 145,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 219,
+                "Write-in": 2
+            }
+        ],
+        [
+            {
+                "county_name": "12",
+                "precinct_name": "200 Fairview No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 98,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 295,
+                "Write-in": 0
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "205 Fairview No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 107,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 383,
+                "Write-in": 3
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "210 Snowshoe",
+                "status": "COMPLETE",
+                "Mark Begich": 191,
+                "Mark Fish": 43,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 575,
+                "Write-in": 6
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "220 Butte",
+                "status": "COMPLETE",
+                "Mark Begich": 398,
+                "Mark Fish": 69,
+                "Ted Gianoutsos": 30,
+                "Dan Sullivan": 871,
+                "Write-in": 6
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "225 Eklutna",
+                "status": "COMPLETE",
+                "Mark Begich": 261,
+                "Mark Fish": 37,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 473,
+                "Write-in": 5
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "230 Peters Creek No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 335,
+                "Mark Fish": 47,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 789,
+                "Write-in": 8
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "233 Peters Creek No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 170,
+                "Mark Fish": 19,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 349,
+                "Write-in": 7
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 141,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 273,
+                "Write-in": 5
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "12",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 115,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 272,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "13",
+                "precinct_name": "235 Chugiak",
+                "status": "COMPLETE",
+                "Mark Begich": 168,
+                "Mark Fish": 29,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 318,
+                "Write-in": 4
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "240 Fire Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 205,
+                "Mark Fish": 33,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 533,
+                "Write-in": 2
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "245 JBER No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 70,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 238,
+                "Write-in": 2
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "250 Downtown Eagle River No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 321,
+                "Mark Fish": 44,
+                "Ted Gianoutsos": 32,
+                "Dan Sullivan": 629,
+                "Write-in": 9
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "255 Chugach Park No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 233,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 429,
+                "Write-in": 4
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "260 Centennial Park",
+                "status": "COMPLETE",
+                "Mark Begich": 85,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 26,
+                "Write-in": 0
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 93,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 222,
+                "Write-in": 0
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "13",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 52,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 77,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "14",
+                "precinct_name": "940 Downtown Eagle River No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 281,
+                "Mark Fish": 33,
+                "Ted Gianoutsos": 22,
+                "Dan Sullivan": 511,
+                "Write-in": 4
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "945 Meadow Creek No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 239,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 377,
+                "Write-in": 3
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "950 Meadow Creek No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 291,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 579,
+                "Write-in": 5
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "955 Eagle River No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 147,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 276,
+                "Write-in": 3
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "960 Eagle River No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 373,
+                "Mark Fish": 28,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 648,
+                "Write-in": 3
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "965 Chugach Park No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 495,
+                "Mark Fish": 39,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 880,
+                "Write-in": 4
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "970 Hiland",
+                "status": "COMPLETE",
+                "Mark Begich": 298,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 596,
+                "Write-in": 3
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 218,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 431,
+                "Write-in": 0
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "14",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 186,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 251,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "15",
+                "precinct_name": "300 JBER No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 56,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 224,
+                "Write-in": 1
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "305 Creekside Park",
+                "status": "COMPLETE",
+                "Mark Begich": 362,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 410,
+                "Write-in": 2
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "310 Muldoon No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 294,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 21,
+                "Dan Sullivan": 219,
+                "Write-in": 3
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "315 Muldoon No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 246,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 212,
+                "Write-in": 1
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "320 North Muldoon",
+                "status": "COMPLETE",
+                "Mark Begich": 267,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 232,
+                "Write-in": 2
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 168,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 166,
+                "Write-in": 2
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "15",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 171,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 82,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "16",
+                "precinct_name": "325 Russian Jack",
+                "status": "COMPLETE",
+                "Mark Begich": 256,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 193,
+                "Write-in": 0
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "330 Nunaka Valley",
+                "status": "COMPLETE",
+                "Mark Begich": 449,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 296,
+                "Write-in": 0
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "335 Northeast Anchorage",
+                "status": "COMPLETE",
+                "Mark Begich": 252,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 204,
+                "Write-in": 3
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "340 College Gate",
+                "status": "COMPLETE",
+                "Mark Begich": 374,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 286,
+                "Write-in": 2
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "345 Chester Valley",
+                "status": "COMPLETE",
+                "Mark Begich": 233,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 258,
+                "Write-in": 2
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "350 Reflection Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 518,
+                "Mark Fish": 42,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 531,
+                "Write-in": 3
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "355 Wonder Park",
+                "status": "COMPLETE",
+                "Mark Begich": 323,
+                "Mark Fish": 31,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 248,
+                "Write-in": 4
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 211,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 151,
+                "Write-in": 2
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "16",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 326,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 164,
+                "Write-in": 5
+            }
+        ],
+        [
+            {
+                "county_name": "17",
+                "precinct_name": "400 Rogers Park",
+                "status": "COMPLETE",
+                "Mark Begich": 364,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 268,
+                "Write-in": 3
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "405 University No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 197,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 136,
+                "Write-in": 2
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "410 University No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 267,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 192,
+                "Write-in": 1
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "415 Far North Bicentennial",
+                "status": "COMPLETE",
+                "Mark Begich": 208,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 218,
+                "Write-in": 1
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "420 Tudor No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 562,
+                "Mark Fish": 52,
+                "Ted Gianoutsos": 29,
+                "Dan Sullivan": 492,
+                "Write-in": 13
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "425 Tudor No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 308,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 210,
+                "Write-in": 6
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "430 East Anchorage",
+                "status": "COMPLETE",
+                "Mark Begich": 201,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 149,
+                "Write-in": 1
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 163,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 131,
+                "Write-in": 3
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "17",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 367,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 171,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "18",
+                "precinct_name": "435 West Anchorage No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 233,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 182,
+                "Write-in": 2
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "440 West Anchorage No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 179,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 109,
+                "Write-in": 5
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "445 Spenard",
+                "status": "COMPLETE",
+                "Mark Begich": 290,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 185,
+                "Write-in": 2
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "450 Willow Crest",
+                "status": "COMPLETE",
+                "Mark Begich": 232,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 154,
+                "Write-in": 3
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "455 West Anchorage No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 267,
+                "Mark Fish": 19,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 136,
+                "Write-in": 6
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "460 Fireweed No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 440,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 221,
+                "Write-in": 1
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "465 Fireweed No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 189,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 88,
+                "Write-in": 1
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "470 Fireweed No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 114,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 69,
+                "Write-in": 0
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "475 Midtown No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 158,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 183,
+                "Write-in": 1
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "480 Midtown No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 416,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 229,
+                "Write-in": 1
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 271,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 145,
+                "Write-in": 3
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "18",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 481,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 263,
+                "Write-in": 3
+            }
+        ],
+        [
+            {
+                "county_name": "19",
+                "precinct_name": "500 North Mt View No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 288,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 128,
+                "Write-in": 7
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "505 North Mt View No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 318,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 131,
+                "Write-in": 4
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "510 South Mt View No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 340,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 233,
+                "Write-in": 1
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "515 South Mt View No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 149,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 104,
+                "Write-in": 0
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "520 Airport Heights No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 373,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 180,
+                "Write-in": 3
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "525 Airport Heights No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 562,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 235,
+                "Write-in": 4
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 164,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 59,
+                "Write-in": 0
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "19",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 211,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 45,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "20",
+                "precinct_name": "530 Government Hill",
+                "status": "COMPLETE",
+                "Mark Begich": 279,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 187,
+                "Write-in": 5
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "535 Merrill Field",
+                "status": "COMPLETE",
+                "Mark Begich": 507,
+                "Mark Fish": 30,
+                "Ted Gianoutsos": 17,
+                "Dan Sullivan": 244,
+                "Write-in": 4
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "540 Downtown Anch No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 164,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 100,
+                "Write-in": 0
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "545 Downtown Anch No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 260,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 122,
+                "Write-in": 0
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "550 Downtown Anch No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 106,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 57,
+                "Write-in": 1
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "555 Downtown Anch No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 378,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 170,
+                "Write-in": 3
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "560 Inlet View",
+                "status": "COMPLETE",
+                "Mark Begich": 358,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 168,
+                "Write-in": 4
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "565 Westchester",
+                "status": "COMPLETE",
+                "Mark Begich": 220,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 89,
+                "Write-in": 2
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "570 Fairview",
+                "status": "COMPLETE",
+                "Mark Begich": 298,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 144,
+                "Write-in": 3
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 316,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 142,
+                "Write-in": 1
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "20",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 454,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 176,
+                "Write-in": 3
+            }
+        ],
+        [
+            {
+                "county_name": "21",
+                "precinct_name": "600 Turnagain No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 553,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 338,
+                "Write-in": 0
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "605 Sand Lake No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 346,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 17,
+                "Dan Sullivan": 413,
+                "Write-in": 4
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "610 Sand Lake No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 342,
+                "Mark Fish": 29,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 321,
+                "Write-in": 3
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "615 Sand Lake No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 278,
+                "Mark Fish": 19,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 252,
+                "Write-in": 4
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "620 Lake Spenard",
+                "status": "COMPLETE",
+                "Mark Begich": 294,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 265,
+                "Write-in": 1
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "625 Lake Hood",
+                "status": "COMPLETE",
+                "Mark Begich": 477,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 341,
+                "Write-in": 5
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "630 Turnagain No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 270,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 177,
+                "Write-in": 4
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "635 Turnagain No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 500,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 320,
+                "Write-in": 6
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 242,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 205,
+                "Write-in": 1
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "21",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 464,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 293,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "22",
+                "precinct_name": "640 Dimond No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 385,
+                "Mark Fish": 35,
+                "Ted Gianoutsos": 22,
+                "Dan Sullivan": 462,
+                "Write-in": 6
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "645 Kincaid",
+                "status": "COMPLETE",
+                "Mark Begich": 541,
+                "Mark Fish": 47,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 798,
+                "Write-in": 7
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "650 Jewel Lake No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 302,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 281,
+                "Write-in": 4
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "655 Jewel Lake No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 267,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 312,
+                "Write-in": 5
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "660 Campbell Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 472,
+                "Mark Fish": 35,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 502,
+                "Write-in": 4
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "665 Sand Lake No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 364,
+                "Mark Fish": 29,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 362,
+                "Write-in": 4
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "670 Sand Lake No. 5",
+                "status": "COMPLETE",
+                "Mark Begich": 157,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 206,
+                "Write-in": 3
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 176,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 201,
+                "Write-in": 0
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "22",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 302,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 296,
+                "Write-in": 2
+            }
+        ],
+        [
+            {
+                "county_name": "23",
+                "precinct_name": "735 Northwood",
+                "status": "COMPLETE",
+                "Mark Begich": 198,
+                "Mark Fish": 18,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 143,
+                "Write-in": 0
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "740 Arctic",
+                "status": "COMPLETE",
+                "Mark Begich": 349,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 292,
+                "Write-in": 5
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "745 Midtown No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 180,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 157,
+                "Write-in": 1
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "750 Taku",
+                "status": "COMPLETE",
+                "Mark Begich": 320,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 309,
+                "Write-in": 4
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "755 Campbell Creek No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 299,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 321,
+                "Write-in": 2
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "760 Campbell Creek No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 194,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 196,
+                "Write-in": 3
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "765 Campbell Creek No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 377,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 384,
+                "Write-in": 4
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "770 Dimond No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 274,
+                "Mark Fish": 31,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 215,
+                "Write-in": 6
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 165,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 128,
+                "Write-in": 3
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "23",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 258,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 199,
+                "Write-in": 4
+            }
+        ],
+        [
+            {
+                "county_name": "24",
+                "precinct_name": "700 Huffman No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 351,
+                "Mark Fish": 34,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 425,
+                "Write-in": 4
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "705 Huffman No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 287,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 323,
+                "Write-in": 8
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "710 Klatt",
+                "status": "COMPLETE",
+                "Mark Begich": 398,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 522,
+                "Write-in": 5
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "715 Southport",
+                "status": "COMPLETE",
+                "Mark Begich": 317,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 433,
+                "Write-in": 1
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "720 Ocean View No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 271,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 335,
+                "Write-in": 3
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "725 Ocean View No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 387,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 576,
+                "Write-in": 6
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "730 Bayshore",
+                "status": "COMPLETE",
+                "Mark Begich": 493,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 635,
+                "Write-in": 6
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 216,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 297,
+                "Write-in": 0
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "24",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 406,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 405,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "25",
+                "precinct_name": "840 East Dowling No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 107,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 84,
+                "Write-in": 0
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "845 Elmore No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 524,
+                "Mark Fish": 42,
+                "Ted Gianoutsos": 26,
+                "Dan Sullivan": 511,
+                "Write-in": 3
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "850 Abbott No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 446,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 432,
+                "Write-in": 5
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "855 Lore No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 372,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 22,
+                "Dan Sullivan": 454,
+                "Write-in": 3
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "860 Lore No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 333,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 350,
+                "Write-in": 6
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "865 Abbott No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 274,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 306,
+                "Write-in": 3
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "870 East Dowling No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 378,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 24,
+                "Dan Sullivan": 365,
+                "Write-in": 4
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 176,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 141,
+                "Write-in": 0
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "25",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 352,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 269,
+                "Write-in": 3
+            }
+        ],
+        [
+            {
+                "county_name": "26",
+                "precinct_name": "800 Independence Park No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 338,
+                "Mark Fish": 29,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 418,
+                "Write-in": 2
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "805 O'Malley No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 302,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 429,
+                "Write-in": 3
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "810 Huffman No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 205,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 420,
+                "Write-in": 5
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "815 Huffman No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 350,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 557,
+                "Write-in": 2
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "820 O'Malley No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 443,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 559,
+                "Write-in": 4
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "825 Independence Park No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 308,
+                "Mark Fish": 40,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 308,
+                "Write-in": 6
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "830 Elmore No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 161,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 233,
+                "Write-in": 0
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "835 O'Malley No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 170,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 146,
+                "Write-in": 1
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 184,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 253,
+                "Write-in": 1
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "26",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 370,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 433,
+                "Write-in": 4
+            }
+        ],
+        [
+            {
+                "county_name": "27",
+                "precinct_name": "900 Cheney Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 510,
+                "Mark Fish": 36,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 530,
+                "Write-in": 2
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "905 Muldoon No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 235,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 283,
+                "Write-in": 3
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "910 Muldoon No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 450,
+                "Mark Fish": 39,
+                "Ted Gianoutsos": 24,
+                "Dan Sullivan": 365,
+                "Write-in": 4
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "915 Chugach Ft. Hills No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 226,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 220,
+                "Write-in": 2
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "920 Chugach Ft. Hills No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 433,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 363,
+                "Write-in": 6
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "925 Scenic Park",
+                "status": "COMPLETE",
+                "Mark Begich": 327,
+                "Mark Fish": 32,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 367,
+                "Write-in": 4
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "930 Baxter",
+                "status": "COMPLETE",
+                "Mark Begich": 594,
+                "Mark Fish": 35,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 488,
+                "Write-in": 3
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "935 Stuckagain Heights",
+                "status": "COMPLETE",
+                "Mark Begich": 124,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 94,
+                "Write-in": 0
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 239,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 242,
+                "Write-in": 1
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "27",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 343,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 273,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "28",
+                "precinct_name": "105 Rabbit Creek No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 327,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 471,
+                "Write-in": 3
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "110 Rabbit Creek No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 498,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 693,
+                "Write-in": 3
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "115 Huffman No. 6",
+                "status": "COMPLETE",
+                "Mark Begich": 266,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 511,
+                "Write-in": 1
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "120 Huffman No. 7",
+                "status": "COMPLETE",
+                "Mark Begich": 356,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 501,
+                "Write-in": 2
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "125 Bear Valley",
+                "status": "COMPLETE",
+                "Mark Begich": 269,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 282,
+                "Write-in": 2
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "130 Indian",
+                "status": "COMPLETE",
+                "Mark Begich": 70,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 51,
+                "Write-in": 0
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "135 Girdwood",
+                "status": "COMPLETE",
+                "Mark Begich": 544,
+                "Mark Fish": 43,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 183,
+                "Write-in": 3
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "140 Golden View",
+                "status": "COMPLETE",
+                "Mark Begich": 424,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 638,
+                "Write-in": 1
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "145 O'Malley No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 375,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 403,
+                "Write-in": 2
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 283,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 337,
+                "Write-in": 0
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "28",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 560,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 620,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "29",
+                "precinct_name": "100 Bear Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 266,
+                "Mark Fish": 35,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 281,
+                "Write-in": 2
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "110 Cooper Landing",
+                "status": "COMPLETE",
+                "Mark Begich": 53,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 76,
+                "Write-in": 1
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "115 Funny River No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 75,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 221,
+                "Write-in": 5
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "120 Hope",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 29,
+                "Write-in": 0
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "130 Mackey Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 98,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 280,
+                "Write-in": 2
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "140 Moose Pass",
+                "status": "COMPLETE",
+                "Mark Begich": 64,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 54,
+                "Write-in": 0
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "150 Nikiski",
+                "status": "COMPLETE",
+                "Mark Begich": 170,
+                "Mark Fish": 37,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 561,
+                "Write-in": 1
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "160 Salamatof",
+                "status": "COMPLETE",
+                "Mark Begich": 192,
+                "Mark Fish": 47,
+                "Ted Gianoutsos": 23,
+                "Dan Sullivan": 665,
+                "Write-in": 6
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "170 Seward",
+                "status": "COMPLETE",
+                "Mark Begich": 300,
+                "Mark Fish": 37,
+                "Ted Gianoutsos": 24,
+                "Dan Sullivan": 309,
+                "Write-in": 7
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "180 Sterling No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 129,
+                "Mark Fish": 28,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 472,
+                "Write-in": 0
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "190 Sterling No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 176,
+                "Mark Fish": 38,
+                "Ted Gianoutsos": 21,
+                "Dan Sullivan": 531,
+                "Write-in": 3
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "29",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 1,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 2,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "30",
+                "precinct_name": "200 Central",
+                "status": "COMPLETE",
+                "Mark Begich": 147,
+                "Mark Fish": 36,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 510,
+                "Write-in": 4
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "210 K",
+                "status": "COMPLETE",
+                "Mark Begich": 261,
+                "Mark Fish": 30,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 750,
+                "Write-in": 6
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "220 Kenai No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 301,
+                "Mark Fish": 37,
+                "Ted Gianoutsos": 28,
+                "Dan Sullivan": 585,
+                "Write-in": 7
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "230 Kenai No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 165,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 325,
+                "Write-in": 1
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "240 Kenai No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 150,
+                "Mark Fish": 30,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 365,
+                "Write-in": 1
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "250 Soldotna",
+                "status": "COMPLETE",
+                "Mark Begich": 439,
+                "Mark Fish": 86,
+                "Ted Gianoutsos": 34,
+                "Dan Sullivan": 1021,
+                "Write-in": 9
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "30",
+                "precinct_name": "Early Voting",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "31",
+                "precinct_name": "300 Anchor Point",
+                "status": "COMPLETE",
+                "Mark Begich": 198,
+                "Mark Fish": 44,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 467,
+                "Write-in": 4
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "310 Diamond Ridge",
+                "status": "COMPLETE",
+                "Mark Begich": 258,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 155,
+                "Write-in": 1
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "320 Fox River",
+                "status": "COMPLETE",
+                "Mark Begich": 85,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 124,
+                "Write-in": 0
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "340 Funny River No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 161,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 401,
+                "Write-in": 2
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "350 Homer No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 454,
+                "Mark Fish": 28,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 432,
+                "Write-in": 1
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "360 Homer No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 313,
+                "Mark Fish": 35,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 332,
+                "Write-in": 1
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "370 Kachemak/Fritz Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 400,
+                "Mark Fish": 29,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 270,
+                "Write-in": 1
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "380 Kasilof",
+                "status": "COMPLETE",
+                "Mark Begich": 352,
+                "Mark Fish": 73,
+                "Ted Gianoutsos": 30,
+                "Dan Sullivan": 541,
+                "Write-in": 4
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "390 Ninilchik",
+                "status": "COMPLETE",
+                "Mark Begich": 160,
+                "Mark Fish": 36,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 282,
+                "Write-in": 0
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "31",
+                "precinct_name": "Early Voting",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "32",
+                "precinct_name": "800 Chiniak",
+                "status": "COMPLETE",
+                "Mark Begich": 16,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 14,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "805 Cordova",
+                "status": "COMPLETE",
+                "Mark Begich": 375,
+                "Mark Fish": 39,
+                "Ted Gianoutsos": 17,
+                "Dan Sullivan": 276,
+                "Write-in": 1
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "810 Flats",
+                "status": "COMPLETE",
+                "Mark Begich": 156,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 180,
+                "Write-in": 3
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "815 Kodiak Island South",
+                "status": "COMPLETE",
+                "Mark Begich": 5,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 13,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "820 Kodiak No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 308,
+                "Mark Fish": 37,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 308,
+                "Write-in": 2
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "825 Kodiak No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 295,
+                "Mark Fish": 30,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 284,
+                "Write-in": 1
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "830 Mission Road",
+                "status": "COMPLETE",
+                "Mark Begich": 562,
+                "Mark Fish": 50,
+                "Ted Gianoutsos": 26,
+                "Dan Sullivan": 699,
+                "Write-in": 2
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "835 Old Harbor",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 13,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "840 Ouzinkie",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 12,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "845 Port Lions",
+                "status": "COMPLETE",
+                "Mark Begich": 27,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 34,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "847 Seldovia/Kachemak Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 77,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 71,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "850 Tatitlek",
+                "status": "COMPLETE",
+                "Mark Begich": 14,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 2,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "855 Tyonek",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 1,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "860 Yakutat",
+                "status": "COMPLETE",
+                "Mark Begich": 164,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 82,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "32",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 4,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "33",
+                "precinct_name": "500 Douglas",
+                "status": "COMPLETE",
+                "Mark Begich": 524,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 196,
+                "Write-in": 1
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "505 Gustavus",
+                "status": "COMPLETE",
+                "Mark Begich": 120,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 63,
+                "Write-in": 0
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "510 Juneau No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 513,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 202,
+                "Write-in": 3
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "515 Juneau No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 770,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 124,
+                "Write-in": 0
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "520 Juneau No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 281,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 125,
+                "Write-in": 1
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "525 Lemon Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 376,
+                "Mark Fish": 30,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 273,
+                "Write-in": 4
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "530 North Douglas",
+                "status": "COMPLETE",
+                "Mark Begich": 456,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 164,
+                "Write-in": 3
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "540 Skagway",
+                "status": "COMPLETE",
+                "Mark Begich": 220,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 127,
+                "Write-in": 3
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "545 Haines No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 430,
+                "Mark Fish": 29,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 355,
+                "Write-in": 3
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "550 Haines No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 52,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 43,
+                "Write-in": 0
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "555 Klukwan",
+                "status": "COMPLETE",
+                "Mark Begich": 31,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 6,
+                "Write-in": 0
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "33",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 493,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 190,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "34",
+                "precinct_name": "400 Auke Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 378,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 308,
+                "Write-in": 4
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "410 Juneau Airport",
+                "status": "COMPLETE",
+                "Mark Begich": 264,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 242,
+                "Write-in": 5
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "420 Lynn Canal",
+                "status": "COMPLETE",
+                "Mark Begich": 316,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 239,
+                "Write-in": 2
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "430 Mendenhall Valley No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 325,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 321,
+                "Write-in": 4
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "440 Mendenhall Valley No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 401,
+                "Mark Fish": 43,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 384,
+                "Write-in": 8
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "450 Mendenhall Valley No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 369,
+                "Mark Fish": 31,
+                "Ted Gianoutsos": 22,
+                "Dan Sullivan": 406,
+                "Write-in": 2
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "460 Mendenhall Valley No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 528,
+                "Mark Fish": 32,
+                "Ted Gianoutsos": 21,
+                "Dan Sullivan": 490,
+                "Write-in": 3
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 257,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 203,
+                "Write-in": 0
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "34",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 1003,
+                "Mark Fish": 40,
+                "Ted Gianoutsos": 31,
+                "Dan Sullivan": 586,
+                "Write-in": 6
+            }
+        ],
+        [
+            {
+                "county_name": "35",
+                "precinct_name": "700 Angoon",
+                "status": "COMPLETE",
+                "Mark Begich": 140,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 29,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "705 Craig",
+                "status": "COMPLETE",
+                "Mark Begich": 179,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 153,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "720 Hoonah",
+                "status": "COMPLETE",
+                "Mark Begich": 212,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 125,
+                "Write-in": 1
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "730 Kake",
+                "status": "COMPLETE",
+                "Mark Begich": 123,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 49,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "735 Kasaan",
+                "status": "COMPLETE",
+                "Mark Begich": 7,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 9,
+                "Write-in": 2
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "740 Klawock",
+                "status": "COMPLETE",
+                "Mark Begich": 162,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 102,
+                "Write-in": 2
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "745 North Prince of Wales",
+                "status": "COMPLETE",
+                "Mark Begich": 27,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 47,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "750 Pelican",
+                "status": "COMPLETE",
+                "Mark Begich": 12,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 24,
+                "Write-in": 1
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "755 Petersburg",
+                "status": "COMPLETE",
+                "Mark Begich": 467,
+                "Mark Fish": 55,
+                "Ted Gianoutsos": 26,
+                "Dan Sullivan": 507,
+                "Write-in": 2
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "760 Port Alexander",
+                "status": "COMPLETE",
+                "Mark Begich": 13,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "765 Sitka No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 791,
+                "Mark Fish": 75,
+                "Ted Gianoutsos": 29,
+                "Dan Sullivan": 558,
+                "Write-in": 5
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "770 Sitka No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 877,
+                "Mark Fish": 57,
+                "Ted Gianoutsos": 28,
+                "Dan Sullivan": 453,
+                "Write-in": 8
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "775 Tenakee Springs",
+                "status": "COMPLETE",
+                "Mark Begich": 23,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 13,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "780 Thorne Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 36,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 127,
+                "Write-in": 3
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "35",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 19,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 15,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "36",
+                "precinct_name": "600 Ketchikan No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 309,
+                "Mark Fish": 38,
+                "Ted Gianoutsos": 18,
+                "Dan Sullivan": 239,
+                "Write-in": 0
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "610 Ketchikan No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 371,
+                "Mark Fish": 54,
+                "Ted Gianoutsos": 18,
+                "Dan Sullivan": 429,
+                "Write-in": 3
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "620 Ketchikan No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 203,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 350,
+                "Write-in": 2
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "640 North Tongass No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 106,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 216,
+                "Write-in": 0
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "650 North Tongass No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 253,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 459,
+                "Write-in": 1
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "660 Saxman",
+                "status": "COMPLETE",
+                "Mark Begich": 62,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 43,
+                "Write-in": 0
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "670 South Tongass",
+                "status": "COMPLETE",
+                "Mark Begich": 234,
+                "Mark Fish": 18,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 376,
+                "Write-in": 1
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "675 Hydaburg",
+                "status": "COMPLETE",
+                "Mark Begich": 80,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 13,
+                "Write-in": 1
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "680 Metlakatla",
+                "status": "COMPLETE",
+                "Mark Begich": 285,
+                "Mark Fish": 31,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 138,
+                "Write-in": 4
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "690 Wrangell",
+                "status": "COMPLETE",
+                "Mark Begich": 240,
+                "Mark Fish": 42,
+                "Ted Gianoutsos": 25,
+                "Dan Sullivan": 438,
+                "Write-in": 2
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "36",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 4,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "37",
+                "precinct_name": "300 Anvik",
+                "status": "COMPLETE",
+                "Mark Begich": 26,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "302 Grayling",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "304 Holy Cross",
+                "status": "COMPLETE",
+                "Mark Begich": 65,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "306 McGrath",
+                "status": "COMPLETE",
+                "Mark Begich": 58,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 59,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "308 Nikolai",
+                "status": "COMPLETE",
+                "Mark Begich": 37,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 9,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "310 Shageluk",
+                "status": "COMPLETE",
+                "Mark Begich": 26,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "312 Takotna",
+                "status": "COMPLETE",
+                "Mark Begich": 1,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "700 Akutan",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 26,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "702 Aleknagik",
+                "status": "COMPLETE",
+                "Mark Begich": 46,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 6,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "704 Aleutians No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 19,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 12,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "706 Aleutians No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 376,
+                "Mark Fish": 34,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 227,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "708 Chignik",
+                "status": "COMPLETE",
+                "Mark Begich": 14,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "710 Clark's Point",
+                "status": "COMPLETE",
+                "Mark Begich": 18,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 1,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "712 Cold Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 4,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 15,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "714 Dillingham",
+                "status": "COMPLETE",
+                "Mark Begich": 519,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 157,
+                "Write-in": 2
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "716 Egegik",
+                "status": "COMPLETE",
+                "Mark Begich": 12,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "718 Ekwok",
+                "status": "COMPLETE",
+                "Mark Begich": 14,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 1,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "720 King Cove",
+                "status": "COMPLETE",
+                "Mark Begich": 83,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 68,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "722 King Salmon",
+                "status": "COMPLETE",
+                "Mark Begich": 35,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 82,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "724 Koliganek",
+                "status": "COMPLETE",
+                "Mark Begich": 27,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "726 Lake Iliamna No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 51,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 29,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "728 Lake Iliamna No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 31,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 17,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "730 Levelock",
+                "status": "COMPLETE",
+                "Mark Begich": 20,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 1,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "732 Manokotak",
+                "status": "COMPLETE",
+                "Mark Begich": 102,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 18,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "734 Naknek",
+                "status": "COMPLETE",
+                "Mark Begich": 88,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 69,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "736 New Stuyahok",
+                "status": "COMPLETE",
+                "Mark Begich": 127,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 9,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "738 Nondalton",
+                "status": "COMPLETE",
+                "Mark Begich": 42,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "740 Pedro Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 13,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "742 Port Heiden",
+                "status": "COMPLETE",
+                "Mark Begich": 18,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 9,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "744 Sand Point",
+                "status": "COMPLETE",
+                "Mark Begich": 81,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 73,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "746 Sleetmute",
+                "status": "COMPLETE",
+                "Mark Begich": 13,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 3,
+                "Write-in": 1
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "748 South Naknek",
+                "status": "COMPLETE",
+                "Mark Begich": 15,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "750 St. George Island",
+                "status": "COMPLETE",
+                "Mark Begich": 22,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "752 St. Paul Island",
+                "status": "COMPLETE",
+                "Mark Begich": 106,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 15,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "754 Togiak",
+                "status": "COMPLETE",
+                "Mark Begich": 155,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 32,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "37",
+                "precinct_name": "Early Voting",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "38",
+                "precinct_name": "800 Akiachak",
+                "status": "COMPLETE",
+                "Mark Begich": 84,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 12,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "802 Akiak",
+                "status": "COMPLETE",
+                "Mark Begich": 91,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 12,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "804 Aniak",
+                "status": "COMPLETE",
+                "Mark Begich": 99,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 59,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "806 Atmautluak",
+                "status": "COMPLETE",
+                "Mark Begich": 46,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 6,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "808 Bethel No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 419,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 134,
+                "Write-in": 2
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "810 Bethel No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 397,
+                "Mark Fish": 19,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 157,
+                "Write-in": 3
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "812 Chefornak",
+                "status": "COMPLETE",
+                "Mark Begich": 4,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 174,
+                "Dan Sullivan": 10,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "814 Chuathbaluk",
+                "status": "COMPLETE",
+                "Mark Begich": 18,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "816 Crooked Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 17,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "818 Eek",
+                "status": "COMPLETE",
+                "Mark Begich": 73,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 16,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "820 Goodnews Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 66,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 13,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "822 Kasigluk",
+                "status": "COMPLETE",
+                "Mark Begich": 87,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "824 Kipnuk",
+                "status": "COMPLETE",
+                "Mark Begich": 138,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 12,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "826 Kongiganak",
+                "status": "COMPLETE",
+                "Mark Begich": 134,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 4,
+                "Write-in": 3
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "828 Kwethluk",
+                "status": "COMPLETE",
+                "Mark Begich": 100,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 17,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "830 Kwigillingok",
+                "status": "COMPLETE",
+                "Mark Begich": 97,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 2,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "832 Lower Kalskag",
+                "status": "COMPLETE",
+                "Mark Begich": 71,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 18,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "834 Marshall",
+                "status": "COMPLETE",
+                "Mark Begich": 79,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 12,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "836 Mekoryuk",
+                "status": "COMPLETE",
+                "Mark Begich": 27,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 38,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "838 Napakiak",
+                "status": "COMPLETE",
+                "Mark Begich": 85,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 8,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "840 Napaskiak",
+                "status": "COMPLETE",
+                "Mark Begich": 84,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 10,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "842 Newtok",
+                "status": "COMPLETE",
+                "Mark Begich": 80,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 6,
+                "Write-in": 2
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "844 Nightmute",
+                "status": "COMPLETE",
+                "Mark Begich": 77,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "846 Nunapitchuk",
+                "status": "COMPLETE",
+                "Mark Begich": 82,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 19,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "848 Quinhagak",
+                "status": "COMPLETE",
+                "Mark Begich": 169,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 21,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "850 Russian Mission",
+                "status": "COMPLETE",
+                "Mark Begich": 86,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 27,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "852 Toksook Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 185,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 13,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "854 Tuluksak",
+                "status": "COMPLETE",
+                "Mark Begich": 71,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 10,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "856 Tuntutuliak",
+                "status": "COMPLETE",
+                "Mark Begich": 88,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 12,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "858 Tununak",
+                "status": "COMPLETE",
+                "Mark Begich": 91,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 10,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "860 Upper Kalskag",
+                "status": "COMPLETE",
+                "Mark Begich": 21,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 19,
+                "Write-in": 1
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "38",
+                "precinct_name": "Early Voting",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "39",
+                "precinct_name": "314 Galena",
+                "status": "COMPLETE",
+                "Mark Begich": 110,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 56,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "316 Huslia",
+                "status": "COMPLETE",
+                "Mark Begich": 85,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 9,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "318 Kaltag",
+                "status": "COMPLETE",
+                "Mark Begich": 72,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 3,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "320 Koyukuk",
+                "status": "COMPLETE",
+                "Mark Begich": 40,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 2,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "322 Nulato",
+                "status": "COMPLETE",
+                "Mark Begich": 81,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "324 Ruby",
+                "status": "COMPLETE",
+                "Mark Begich": 38,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 10,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "900 Alakanuk",
+                "status": "COMPLETE",
+                "Mark Begich": 86,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 12,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "902 Brevig Mission",
+                "status": "COMPLETE",
+                "Mark Begich": 82,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 25,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "904 Chevak",
+                "status": "COMPLETE",
+                "Mark Begich": 212,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 33,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "906 Diomede",
+                "status": "COMPLETE",
+                "Mark Begich": 11,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 9,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "908 Elim",
+                "status": "COMPLETE",
+                "Mark Begich": 80,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 16,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "910 Emmonak",
+                "status": "COMPLETE",
+                "Mark Begich": 162,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 33,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "912 Gambell",
+                "status": "COMPLETE",
+                "Mark Begich": 130,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 25,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "914 Golovin",
+                "status": "COMPLETE",
+                "Mark Begich": 46,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "916 Hooper Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 216,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 45,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "918 Kotlik",
+                "status": "COMPLETE",
+                "Mark Begich": 76,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 23,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "920 Koyuk",
+                "status": "COMPLETE",
+                "Mark Begich": 75,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 18,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "922 Mountain Village",
+                "status": "COMPLETE",
+                "Mark Begich": 148,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 36,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "924 Nome No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 217,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 140,
+                "Write-in": 2
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "926 Nome No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 335,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 175,
+                "Write-in": 7
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "928 Nunam Iqua",
+                "status": "COMPLETE",
+                "Mark Begich": 25,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 6,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "930 Pilot Station",
+                "status": "COMPLETE",
+                "Mark Begich": 71,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 33,
+                "Write-in": 2
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "932 Savoonga",
+                "status": "COMPLETE",
+                "Mark Begich": 196,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 28,
+                "Write-in": 2
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "934 Scammon Bay",
+                "status": "COMPLETE",
+                "Mark Begich": 136,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 16,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "936 Shaktoolik",
+                "status": "COMPLETE",
+                "Mark Begich": 70,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 18,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "938 Shishmaref",
+                "status": "COMPLETE",
+                "Mark Begich": 138,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 41,
+                "Write-in": 3
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "940 St. Mary's",
+                "status": "COMPLETE",
+                "Mark Begich": 120,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 21,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "942 St. Michael",
+                "status": "COMPLETE",
+                "Mark Begich": 52,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 22,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "944 Stebbins",
+                "status": "COMPLETE",
+                "Mark Begich": 82,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 30,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "946 Teller",
+                "status": "COMPLETE",
+                "Mark Begich": 60,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 11,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "948 Unalakleet",
+                "status": "COMPLETE",
+                "Mark Begich": 179,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 69,
+                "Write-in": 2
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "950 Wales",
+                "status": "COMPLETE",
+                "Mark Begich": 49,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 6,
+                "Write-in": 5
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "952 White Mountain",
+                "status": "COMPLETE",
+                "Mark Begich": 47,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 11,
+                "Write-in": 1
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "39",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 133,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 63,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "40",
+                "precinct_name": "002 Ambler",
+                "status": "COMPLETE",
+                "Mark Begich": 51,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 15,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "004 Anaktuvuk Pass",
+                "status": "COMPLETE",
+                "Mark Begich": 53,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 36,
+                "Write-in": 1
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "006 Atqasuk",
+                "status": "COMPLETE",
+                "Mark Begich": 41,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 22,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "008 Barrow",
+                "status": "COMPLETE",
+                "Mark Begich": 221,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 97,
+                "Write-in": 2
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "010 Browerville",
+                "status": "COMPLETE",
+                "Mark Begich": 453,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 227,
+                "Write-in": 11
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "012 Buckland",
+                "status": "COMPLETE",
+                "Mark Begich": 70,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 19,
+                "Write-in": 2
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "014 Deering",
+                "status": "COMPLETE",
+                "Mark Begich": 31,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 6,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "016 Kaktovik",
+                "status": "COMPLETE",
+                "Mark Begich": 59,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 27,
+                "Write-in": 4
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "018 Kiana",
+                "status": "COMPLETE",
+                "Mark Begich": 62,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 23,
+                "Write-in": 1
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "020 Kivalina",
+                "status": "COMPLETE",
+                "Mark Begich": 64,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 29,
+                "Write-in": 3
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "022 Kobuk",
+                "status": "COMPLETE",
+                "Mark Begich": 17,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 11,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "024 Kotzebue",
+                "status": "COMPLETE",
+                "Mark Begich": 499,
+                "Mark Fish": 38,
+                "Ted Gianoutsos": 26,
+                "Dan Sullivan": 184,
+                "Write-in": 2
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "026 Noatak",
+                "status": "COMPLETE",
+                "Mark Begich": 81,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 34,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "028 Noorvik",
+                "status": "COMPLETE",
+                "Mark Begich": 91,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 46,
+                "Write-in": 3
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "030 Nuiqsut",
+                "status": "COMPLETE",
+                "Mark Begich": 69,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 37,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "032 Point Hope",
+                "status": "COMPLETE",
+                "Mark Begich": 104,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 69,
+                "Write-in": 1
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "034 Point Lay",
+                "status": "COMPLETE",
+                "Mark Begich": 27,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 23,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "036 Selawik",
+                "status": "COMPLETE",
+                "Mark Begich": 89,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 38,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "038 Shungnak",
+                "status": "COMPLETE",
+                "Mark Begich": 64,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 12,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "040 Wainwright",
+                "status": "COMPLETE",
+                "Mark Begich": 64,
+                "Mark Fish": 11,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 71,
+                "Write-in": 4
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "326 Allakaket",
+                "status": "COMPLETE",
+                "Mark Begich": 87,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 3,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "328 Bettles",
+                "status": "COMPLETE",
+                "Mark Begich": 8,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "330 Hughes",
+                "status": "COMPLETE",
+                "Mark Begich": 48,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 2,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "40",
+                "precinct_name": "Early Voting",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "01",
+                "precinct_name": "446 Aurora",
+                "status": "COMPLETE",
+                "Mark Begich": 413,
+                "Mark Fish": 30,
+                "Ted Gianoutsos": 22,
+                "Dan Sullivan": 434,
+                "Write-in": 2
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "455 Fairbanks No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 94,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 87,
+                "Write-in": 1
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "465 Fairbanks No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 162,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 134,
+                "Write-in": 4
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "470 Fairbanks No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 256,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 18,
+                "Dan Sullivan": 213,
+                "Write-in": 2
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "475 Fairbanks No. 4",
+                "status": "COMPLETE",
+                "Mark Begich": 134,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 131,
+                "Write-in": 3
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "480 Fairbanks No. 5",
+                "status": "COMPLETE",
+                "Mark Begich": 325,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 393,
+                "Write-in": 3
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "485 Fairbanks No. 6",
+                "status": "COMPLETE",
+                "Mark Begich": 181,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 11,
+                "Dan Sullivan": 178,
+                "Write-in": 1
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "490 Fairbanks No. 7",
+                "status": "COMPLETE",
+                "Mark Begich": 236,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 207,
+                "Write-in": 3
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "495 Fairbanks No. 10",
+                "status": "COMPLETE",
+                "Mark Begich": 72,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 103,
+                "Write-in": 1
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 99,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 158,
+                "Write-in": 0
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "01",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 435,
+                "Mark Fish": 18,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 232,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "02",
+                "precinct_name": "345 Badger No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 283,
+                "Mark Fish": 42,
+                "Ted Gianoutsos": 31,
+                "Dan Sullivan": 665,
+                "Write-in": 5
+            },
+            {
+                "county_name": "02",
+                "precinct_name": "355 Fairbanks No. 8",
+                "status": "COMPLETE",
+                "Mark Begich": 256,
+                "Mark Fish": 28,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 283,
+                "Write-in": 1
+            },
+            {
+                "county_name": "02",
+                "precinct_name": "365 Fairbanks No. 9",
+                "status": "COMPLETE",
+                "Mark Begich": 352,
+                "Mark Fish": 31,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 472,
+                "Write-in": 4
+            },
+            {
+                "county_name": "02",
+                "precinct_name": "375 Fort Wainwright",
+                "status": "COMPLETE",
+                "Mark Begich": 38,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 148,
+                "Write-in": 0
+            },
+            {
+                "county_name": "02",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 68,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 134,
+                "Write-in": 0
+            },
+            {
+                "county_name": "02",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "02",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 174,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 186,
+                "Write-in": 0
+            }
+        ],
+        [
+            {
+                "county_name": "03",
+                "precinct_name": "130 Badger No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 281,
+                "Mark Fish": 43,
+                "Ted Gianoutsos": 25,
+                "Dan Sullivan": 689,
+                "Write-in": 2
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "135 Chena Lakes",
+                "status": "COMPLETE",
+                "Mark Begich": 231,
+                "Mark Fish": 35,
+                "Ted Gianoutsos": 29,
+                "Dan Sullivan": 704,
+                "Write-in": 3
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "165 Newby",
+                "status": "COMPLETE",
+                "Mark Begich": 276,
+                "Mark Fish": 45,
+                "Ted Gianoutsos": 30,
+                "Dan Sullivan": 798,
+                "Write-in": 8
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "175 North Pole",
+                "status": "COMPLETE",
+                "Mark Begich": 146,
+                "Mark Fish": 25,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 350,
+                "Write-in": 3
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "183 Plack",
+                "status": "COMPLETE",
+                "Mark Begich": 220,
+                "Mark Fish": 42,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 690,
+                "Write-in": 1
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 53,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 198,
+                "Write-in": 2
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "03",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 198,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 282,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "04",
+                "precinct_name": "230 Ester",
+                "status": "COMPLETE",
+                "Mark Begich": 288,
+                "Mark Fish": 18,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 144,
+                "Write-in": 3
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "240 Farmers Loop",
+                "status": "COMPLETE",
+                "Mark Begich": 654,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 8,
+                "Dan Sullivan": 447,
+                "Write-in": 5
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "250 Goldstream No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 271,
+                "Mark Fish": 23,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 166,
+                "Write-in": 3
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "260 Goldstream No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 502,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 176,
+                "Write-in": 5
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "265 Steese East",
+                "status": "COMPLETE",
+                "Mark Begich": 484,
+                "Mark Fish": 60,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 779,
+                "Write-in": 5
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "270 Steese West",
+                "status": "COMPLETE",
+                "Mark Begich": 597,
+                "Mark Fish": 53,
+                "Ted Gianoutsos": 31,
+                "Dan Sullivan": 849,
+                "Write-in": 8
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "280 University Hills",
+                "status": "COMPLETE",
+                "Mark Begich": 140,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 69,
+                "Write-in": 1
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 246,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 176,
+                "Write-in": 2
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "04",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 770,
+                "Mark Fish": 31,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 399,
+                "Write-in": 5
+            }
+        ],
+        [
+            {
+                "county_name": "05",
+                "precinct_name": "580 Airport",
+                "status": "COMPLETE",
+                "Mark Begich": 54,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 88,
+                "Write-in": 1
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "582 Chena",
+                "status": "COMPLETE",
+                "Mark Begich": 998,
+                "Mark Fish": 61,
+                "Ted Gianoutsos": 28,
+                "Dan Sullivan": 844,
+                "Write-in": 10
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "586 Geist",
+                "status": "COMPLETE",
+                "Mark Begich": 365,
+                "Mark Fish": 18,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 299,
+                "Write-in": 2
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "587 Lakeview",
+                "status": "COMPLETE",
+                "Mark Begich": 45,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 90,
+                "Write-in": 0
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "588 Pike",
+                "status": "COMPLETE",
+                "Mark Begich": 92,
+                "Mark Fish": 9,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 119,
+                "Write-in": 0
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "590 Richardson",
+                "status": "COMPLETE",
+                "Mark Begich": 39,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 101,
+                "Write-in": 1
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "592 Shanly",
+                "status": "COMPLETE",
+                "Mark Begich": 198,
+                "Mark Fish": 19,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 168,
+                "Write-in": 4
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "594 University Campus",
+                "status": "COMPLETE",
+                "Mark Begich": 46,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 23,
+                "Write-in": 0
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "596 University West",
+                "status": "COMPLETE",
+                "Mark Begich": 494,
+                "Mark Fish": 39,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 511,
+                "Write-in": 4
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 125,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 155,
+                "Write-in": 0
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "05",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 504,
+                "Mark Fish": 17,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 305,
+                "Write-in": 3
+            }
+        ],
+        [
+            {
+                "county_name": "06",
+                "precinct_name": "005 Anderson",
+                "status": "COMPLETE",
+                "Mark Begich": 32,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 40,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "007 Arctic Village",
+                "status": "COMPLETE",
+                "Mark Begich": 50,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 1,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "010 Beaver",
+                "status": "COMPLETE",
+                "Mark Begich": 20,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "012 Cantwell",
+                "status": "COMPLETE",
+                "Mark Begich": 33,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 42,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "015 Central",
+                "status": "COMPLETE",
+                "Mark Begich": 16,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 30,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "020 Chistochina",
+                "status": "COMPLETE",
+                "Mark Begich": 19,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 50,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "023 Circle",
+                "status": "COMPLETE",
+                "Mark Begich": 24,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "024 Clear",
+                "status": "COMPLETE",
+                "Mark Begich": 28,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 35,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "025 Copper Center",
+                "status": "COMPLETE",
+                "Mark Begich": 95,
+                "Mark Fish": 10,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 125,
+                "Write-in": 2
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "026 Denali Park",
+                "status": "COMPLETE",
+                "Mark Begich": 71,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "027 Dot Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 4,
+                "Mark Fish": 3,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 30,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "030 Eagle",
+                "status": "COMPLETE",
+                "Mark Begich": 24,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 47,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "033 Fort Yukon",
+                "status": "COMPLETE",
+                "Mark Begich": 123,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 23,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "035 Gakona",
+                "status": "COMPLETE",
+                "Mark Begich": 28,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 56,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "040 Healy",
+                "status": "COMPLETE",
+                "Mark Begich": 143,
+                "Mark Fish": 8,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 185,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "047 Kenny Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 53,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 76,
+                "Write-in": 1
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "050 Manley Hot Springs",
+                "status": "COMPLETE",
+                "Mark Begich": 20,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 22,
+                "Write-in": 1
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "053 Mentasta",
+                "status": "COMPLETE",
+                "Mark Begich": 39,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 6,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "054 Minto",
+                "status": "COMPLETE",
+                "Mark Begich": 56,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 2,
+                "Dan Sullivan": 8,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "056 Nenana",
+                "status": "COMPLETE",
+                "Mark Begich": 95,
+                "Mark Fish": 24,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 150,
+                "Write-in": 1
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "060 Northway",
+                "status": "COMPLETE",
+                "Mark Begich": 43,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 4,
+                "Dan Sullivan": 21,
+                "Write-in": 2
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "070 Stevens Village",
+                "status": "COMPLETE",
+                "Mark Begich": 11,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 2,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "075 Tanacross",
+                "status": "COMPLETE",
+                "Mark Begich": 35,
+                "Mark Fish": 1,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 10,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "080 Tanana",
+                "status": "COMPLETE",
+                "Mark Begich": 70,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 7,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "085 Tetlin",
+                "status": "COMPLETE",
+                "Mark Begich": 36,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 4,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "090 Tok",
+                "status": "COMPLETE",
+                "Mark Begich": 120,
+                "Mark Fish": 21,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 284,
+                "Write-in": 7
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "095 Venetie",
+                "status": "COMPLETE",
+                "Mark Begich": 54,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 4,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "145 Eielson",
+                "status": "COMPLETE",
+                "Mark Begich": 34,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 211,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "150 Fox",
+                "status": "COMPLETE",
+                "Mark Begich": 78,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 7,
+                "Dan Sullivan": 141,
+                "Write-in": 1
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "155 Moose Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 50,
+                "Mark Fish": 7,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 124,
+                "Write-in": 2
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "160 Salcha",
+                "status": "COMPLETE",
+                "Mark Begich": 78,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 13,
+                "Dan Sullivan": 301,
+                "Write-in": 3
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "170 Steele Creek",
+                "status": "COMPLETE",
+                "Mark Begich": 179,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 18,
+                "Dan Sullivan": 254,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "180 Two Rivers",
+                "status": "COMPLETE",
+                "Mark Begich": 155,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 282,
+                "Write-in": 4
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "06",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 158,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 5,
+                "Dan Sullivan": 141,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "07",
+                "precinct_name": "100 Lakes No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 151,
+                "Mark Fish": 33,
+                "Ted Gianoutsos": 17,
+                "Dan Sullivan": 402,
+                "Write-in": 4
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "105 Pioneer Peak",
+                "status": "COMPLETE",
+                "Mark Begich": 100,
+                "Mark Fish": 12,
+                "Ted Gianoutsos": 12,
+                "Dan Sullivan": 309,
+                "Write-in": 1
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "110 Schrock",
+                "status": "COMPLETE",
+                "Mark Begich": 131,
+                "Mark Fish": 22,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 421,
+                "Write-in": 4
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "115 Wasilla Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 120,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 18,
+                "Dan Sullivan": 275,
+                "Write-in": 3
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "120 Wasilla No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 272,
+                "Mark Fish": 40,
+                "Ted Gianoutsos": 39,
+                "Dan Sullivan": 576,
+                "Write-in": 4
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "125 Wasilla No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 267,
+                "Mark Fish": 62,
+                "Ted Gianoutsos": 29,
+                "Dan Sullivan": 657,
+                "Write-in": 2
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "130 Foothills",
+                "status": "COMPLETE",
+                "Mark Begich": 83,
+                "Mark Fish": 20,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 259,
+                "Write-in": 1
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 83,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 197,
+                "Write-in": 3
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "07",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 334,
+                "Mark Fish": 44,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 719,
+                "Write-in": 4
+            }
+        ],
+        [
+            {
+                "county_name": "08",
+                "precinct_name": "130 Meadow Lakes No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 99,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 234,
+                "Write-in": 2
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "135 Meadow Lakes No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 221,
+                "Mark Fish": 42,
+                "Ted Gianoutsos": 16,
+                "Dan Sullivan": 547,
+                "Write-in": 6
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "140 Knik Goose Bay No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 181,
+                "Mark Fish": 65,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 608,
+                "Write-in": 8
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "145 Knik Goose Bay No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 161,
+                "Mark Fish": 34,
+                "Ted Gianoutsos": 22,
+                "Dan Sullivan": 404,
+                "Write-in": 5
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "150 Knik Goose Bay No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 189,
+                "Mark Fish": 38,
+                "Ted Gianoutsos": 19,
+                "Dan Sullivan": 608,
+                "Write-in": 11
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "155 Big Lake",
+                "status": "COMPLETE",
+                "Mark Begich": 246,
+                "Mark Fish": 67,
+                "Ted Gianoutsos": 32,
+                "Dan Sullivan": 676,
+                "Write-in": 7
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "Absentee",
+                "status": "COMPLETE",
+                "Mark Begich": 62,
+                "Mark Fish": 5,
+                "Ted Gianoutsos": 1,
+                "Dan Sullivan": 181,
+                "Write-in": 2
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "08",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 193,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 14,
+                "Dan Sullivan": 425,
+                "Write-in": 1
+            }
+        ],
+        [
+            {
+                "county_name": "09",
+                "precinct_name": "600 Big Delta",
+                "status": "COMPLETE",
+                "Mark Begich": 192,
+                "Mark Fish": 47,
+                "Ted Gianoutsos": 23,
+                "Dan Sullivan": 735,
+                "Write-in": 4
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "608 Delta Junction",
+                "status": "COMPLETE",
+                "Mark Begich": 78,
+                "Mark Fish": 16,
+                "Ted Gianoutsos": 9,
+                "Dan Sullivan": 225,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "622 Farm Loop",
+                "status": "COMPLETE",
+                "Mark Begich": 279,
+                "Mark Fish": 27,
+                "Ted Gianoutsos": 21,
+                "Dan Sullivan": 564,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "628 Fishhook",
+                "status": "COMPLETE",
+                "Mark Begich": 325,
+                "Mark Fish": 60,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 716,
+                "Write-in": 9
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "632 Glennallen",
+                "status": "COMPLETE",
+                "Mark Begich": 47,
+                "Mark Fish": 6,
+                "Ted Gianoutsos": 6,
+                "Dan Sullivan": 135,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "640 Sheep Mountain",
+                "status": "COMPLETE",
+                "Mark Begich": 32,
+                "Mark Fish": 4,
+                "Ted Gianoutsos": 3,
+                "Dan Sullivan": 72,
+                "Write-in": 1
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "645 Sutton",
+                "status": "COMPLETE",
+                "Mark Begich": 160,
+                "Mark Fish": 15,
+                "Ted Gianoutsos": 17,
+                "Dan Sullivan": 228,
+                "Write-in": 2
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "650 Valdez No. 1",
+                "status": "COMPLETE",
+                "Mark Begich": 184,
+                "Mark Fish": 13,
+                "Ted Gianoutsos": 15,
+                "Dan Sullivan": 251,
+                "Write-in": 2
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "655 Valdez No. 2",
+                "status": "COMPLETE",
+                "Mark Begich": 107,
+                "Mark Fish": 14,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 159,
+                "Write-in": 6
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "660 Valdez No. 3",
+                "status": "COMPLETE",
+                "Mark Begich": 178,
+                "Mark Fish": 26,
+                "Ted Gianoutsos": 20,
+                "Dan Sullivan": 209,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "665 Whittier",
+                "status": "COMPLETE",
+                "Mark Begich": 39,
+                "Mark Fish": 2,
+                "Ted Gianoutsos": 10,
+                "Dan Sullivan": 47,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "Absentee",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "Question",
+                "status": "INCOMPLETE",
+                "Mark Begich": 0,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 0,
+                "Write-in": 0
+            },
+            {
+                "county_name": "09",
+                "precinct_name": "Early Voting",
+                "status": "COMPLETE",
+                "Mark Begich": 5,
+                "Mark Fish": 0,
+                "Ted Gianoutsos": 0,
+                "Dan Sullivan": 5,
+                "Write-in": 0
+            }
+        ]
+    ]
+}
