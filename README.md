@@ -12,8 +12,6 @@ This repository contains a snapshot of precinct-level results from 2014 general 
 * North Carolina
 * Virginia
 
-The data was used for [The Upshot's Live Senate Model](http://elections.nytimes.com/2014/senate-model) on election night.
-
 These results were scraped from official state websites by The New York Times on November 5, 2014. However, as snapshots, these files may not match data currently published on those sites. Use at your own risk. This is government data, so there is no claim of copyright or license for its use.
 
 Each state-specific JSON file contains the name of the precinct, the county, candidate totals and a status representing completeness of the data for that precinct. Example:
